@@ -8,7 +8,6 @@ setup(
     author_email     = 'cnheitman@fundacionsadosky.org.ar',
     description      = 'A multiplatform open source Binary Analysis and Reverse engineering Framework',
     install_requires = [
-        'capstone',
         'networkx',
         'pefile',
         'pybfd',
