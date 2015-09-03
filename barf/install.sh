@@ -6,4 +6,4 @@
 
 # Install BARF
 # ---------------------------------------------------------------------------- #
-sudo python setup.py
+sudo python setup.py install
